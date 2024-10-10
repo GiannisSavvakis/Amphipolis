@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="controller.Controller" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="837" width="257" x="2396" y="-776"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="controller.Controller.MosaicTileListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="497" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="controller.Controller.VoidListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="731" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="controller.Controller.WindowClosingListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="221" x="965" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="controller.Controller.AssistantListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1226" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="controller.Controller.DiggerListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1460" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="controller.Controller.PauseListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1694" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="controller.Controller.ProfessorListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1928" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="controller.Controller.StatueTileListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2162" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="controller.Controller.AmphoraTileListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2396" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="controller.Controller.ΑrchaeologistListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2630" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="controller.Controller.PlayingModesListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2864" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="controller.Controller.ContinueListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="3098" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="controller.Controller.NewGameListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="3332" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="controller.Controller.SkeletonTileListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="3566" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="controller.Controller.DrawTilesListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="3800" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="controller.Controller.ResumeListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="4034" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="controller.Controller.EndRunListener" project="Code_4234" 
+    file="/Code_4234/src/controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="4268" y="101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="model.Professor" project="Code_4234" file="/Code_4234/src/model/Professor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="185" x="620" y="1122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="model.CharacterIsAlreadyUsedException" project="Code_4234" 
+    file="/Code_4234/src/model/CharacterIsAlreadyUsedException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="143" y="291"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="model.Player" project="Code_4234" file="/Code_4234/src/model/Player.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="206" x="822" y="641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="model.SkeletonSmallTopTile" project="Code_4234" 
+    file="/Code_4234/src/model/SkeletonSmallTopTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="146" x="460" y="1827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="model.CaryatidTile" project="Code_4234" 
+    file="/Code_4234/src/model/CaryatidTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="118" x="1218" y="1827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="model.SkeletonTile" project="Code_4234" 
+    file="/Code_4234/src/model/SkeletonTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="119" x="646" y="1670"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="model.LandslideTile" project="Code_4234" 
+    file="/Code_4234/src/model/LandslideTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="102" x="84" y="1670"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="model.Archaeologist" project="Code_4234" 
+    file="/Code_4234/src/model/Archaeologist.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="185" x="845" y="1122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="model.Board" project="Code_4234" file="/Code_4234/src/model/Board.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="248" x="358" y="1279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="model.SkeletonBigBottomTile" project="Code_4234" 
+    file="/Code_4234/src/model/SkeletonBigBottomTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="153" x="646" y="1827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="model.SkeletonSmallBottomTile" project="Code_4234" 
+    file="/Code_4234/src/model/SkeletonSmallBottomTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="167" x="839" y="1827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="model.ModelConstants" project="Code_4234" 
+    file="/Code_4234/src/model/ModelConstants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="229" x="630" y="214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="model.ModelConstants.Points" project="Code_4234" 
+    file="/Code_4234/src/model/ModelConstants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="271" x="346" y="641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="model.SkeletonBigTopTile" project="Code_4234" 
+    file="/Code_4234/src/model/SkeletonBigTopTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="132" x="1046" y="1827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="model.Character" project="Code_4234" file="/Code_4234/src/model/Character.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1296" y="369"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="model.AmphoraTile" project="Code_4234" 
+    file="/Code_4234/src/model/AmphoraTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="153" x="267" y="1827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="model.Bag" project="Code_4234" file="/Code_4234/src/model/Bag.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="222" x="84" y="641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="model.MosaicTile" project="Code_4234" file="/Code_4234/src/model/MosaicTile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="143" x="84" y="1827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="model.Tile" project="Code_4234" file="/Code_4234/src/model/Tile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="121" x="84" y="1122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="model.FindingTile" project="Code_4234" 
+    file="/Code_4234/src/model/FindingTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="112" x="646" y="1279"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="model.SphinxTile" project="Code_4234" file="/Code_4234/src/model/SphinxTile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="111" x="1376" y="1827"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="model.StatueTile" project="Code_4234" file="/Code_4234/src/model/StatueTile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="109" x="899" y="1670"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="model.ColoredFindingTile" project="Code_4234" 
+    file="/Code_4234/src/model/ColoredFindingTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="180" x="247" y="1670"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="model.Digger" project="Code_4234" file="/Code_4234/src/model/Digger.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="185" x="1070" y="1122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="model.Assistant" project="Code_4234" file="/Code_4234/src/model/Assistant.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="185" x="1295" y="1122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="model.NotEnoughSpaceForNewTilesException" project="Code_4234" 
+    file="/Code_4234/src/model/NotEnoughSpaceForNewTilesException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="415" y="285"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="model.ModelConstants.Colors" project="Code_4234" 
+    file="/Code_4234/src/model/ModelConstants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="104" x="657" y="641"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="view.Area" project="Code_4234" file="/Code_4234/src/view/Area.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4797" y="1144"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="view.View" project="Code_4234" file="/Code_4234/src/view/View.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4936" y="672"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="view.ViewConstants" project="Code_4234" 
+    file="/Code_4234/src/view/ViewConstants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5311" y="510"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="view.JButtonWithIconPath" project="Code_4234" 
+    file="/Code_4234/src/view/JButtonWithIconPath.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4771" y="1364"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <association id="51">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="52" name="skeletonsArea"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="54">    
+    <bendpoint x="93" y="1279"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="37"/>  
+  </generalization>  
+  <association id="55">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="56" name="entrance"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="59" name="skeletons"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="62" name="statuesArea"/>      
+      <multiplicity id="63" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="37"/>  
+  </generalization>  
+  <nesting id="65">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <nesting id="66">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <association id="67">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="68" name="Digger"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="41"/>  
+  </generalization>  
+  <association id="71">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="72" name="entranceArea"/>      
+      <multiplicity id="73" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="75" name="thief"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="78" name="Archaeologist"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="80">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <nesting id="81">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <generalization id="82">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <association id="83">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="84" name="board"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="86">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <association id="87">    
+    <bendpoint x="457" y="1670"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="88" name="amphorasArea"/>      
+      <multiplicity id="89" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="91" name="view"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="93">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <nesting id="95">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="96">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="97" name="players"/>      
+      <multiplicity id="98" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="100" name="statues"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="103" name="bag"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="105">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <nesting id="106">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <nesting id="107">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <generalization id="108">    
+    <bendpoint x="791" y="641"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="33"/>  
+  </generalization>  
+  <nesting id="109">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <generalization id="110">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <association id="111">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="112" name="tiles"/>      
+      <multiplicity id="113" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="115" name="mosaics"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="117">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <nesting id="118">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <association id="119">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="120" name="tiles"/>      
+      <multiplicity id="121" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="122">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="40"/>  
+  </generalization>  
+  <association id="123">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="124" name="Professor"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="126">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <nesting id="127">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="31"/>  
+  </nesting>  
+  <generalization id="128">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="41"/>  
+  </generalization>  
+  <nesting id="129">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="45"/>  
+  </nesting>  
+  <generalization id="130">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="40"/>  
+  </generalization>  
+  <nesting id="131">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <generalization id="132">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <nesting id="133">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <association id="134">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="135" name="Assistant"/>      
+      <multiplicity id="136" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="137">    
+    <bendpoint x="216" y="1670"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="138" name="mosaicsArea"/>      
+      <multiplicity id="139" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="140">    
+    <bendpoint x="1079" y="641"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="33"/>  
+  </generalization>  
+  <generalization id="141">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <association id="142">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="143" name="owner"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="145">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="146" name="amphoras"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="148">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="149" name="takenTiles"/>      
+      <multiplicity id="150" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="151">    
+    <bendpoint x="1181" y="641"/>    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="33"/>  
+  </generalization>  
+  <nesting id="152">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <generalization id="153">    
+    <bendpoint x="1058" y="641"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="33"/>  
+  </generalization>  
+  <nesting id="154">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

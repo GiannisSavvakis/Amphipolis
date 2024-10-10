@@ -1,0 +1,46 @@
+4
+3
+false
+true
+true
+noareayet
+0
+0
+0
+0
+0
+0
+0
+0
+0
+false
+false
+4
+images_2020/landslide.png
+images_2020/landslide.png
+images_2020/mosaic_yellow.png
+images_2020/caryatid.png
+Player 1
+false
+false
+false
+false
+0
+Player 2
+false
+false
+false
+false
+0
+Player 3
+false
+false
+false
+false
+0
+Player 4
+false
+false
+false
+false
+0
